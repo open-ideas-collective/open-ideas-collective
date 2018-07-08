@@ -2,9 +2,9 @@
 
 I am always thinking of ideas and problems that can be solved, either for the good of humanity, to hustle it up or just have some plain ol' fun. In that spirit, I decided to codify those stray thoughts into ideas that can be implemented or solved by the community as a whole. Taking it a step further, why shouldn't we democratize the idea sharing and let anyone come up with ideas that are worth implementing?
 
-The purpose of this collection is to have the ideators document their ideas in the form of issues, and have the do'ers execute it for the purpose of learning, progress and entertainment.
+The purpose of this collective is to have the ideators document their ideas in the form of issues, and have the do'ers execute it for the purpose of learning, progress and entertainment.
 
-There is no restriction to the nature of the idea or if it spans across disciplines and methodologies. Neither is any idea too grand or too small. Have an idea in fashion/design/computer science/political science/civil service/mathematics/typography/manufacturing/gaming/<literally-anything>? Great! Let's go get it! 
+There is no restriction to the nature of the idea or if it spans across disciplines and methodologies. Neither is any idea too grand or too small. Have an idea in fashion/design/computer science/political science/civil service/mathematics/typography/manufacturing/gaming/(literally-anything)? Great! Let's go get it! 
 
 Keep in mind, any ideas posted here are fair game to be implemented by anyone who chooses to do so. There are plenty of good ideas to go around, so don't be miserly! This is a collective of open ideas, open thoughts and open minds.
 
