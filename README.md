@@ -14,7 +14,7 @@ If you are a doer, don't hesitate to open a dialog with the person who posted th
 
 Without further ado, let the games begin! 🎳
 
-> To begin posting and viewing ideas, go [here](https://github.com/arjunrao87/open-ideas-collective/issues)
+**To begin posting and viewing ideas, go [here](https://github.com/arjunrao87/open-ideas-collective/issues)**
 
 *Before you participate in the collective be sure to check out the [Code of Conduct](CODE_OF_CONDUCT.md) and [Rules of Contribution](CONTRIBUTING.md)* 
 
