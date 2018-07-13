@@ -25,7 +25,7 @@ If you would like to stay up-to-date with what we are upto, be sure to sign up f
     <input type="submit" value="Sign up">
 </form>
 <br/>
-<br/>
+
 # Contributors
 
 Thanks goes to these wonderful people ([emoji key][emojis]):
