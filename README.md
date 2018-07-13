@@ -18,7 +18,14 @@ Without further ado, let the games begin! 🎳
 
 *Before you participate in the collective, be sure to check out the [Code of Conduct](CODE_OF_CONDUCT.md) and [Rules of Contribution](CONTRIBUTING.md)* 
 
-## Contributors
+If you would like to stay up-to-date with what we are upto, be sure to sign up for our newsletter!
+
+<form action="https://formspree.io/arjunrao7891@gmail.com" method="POST">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Sign up">
+</form>
+
+# Contributors
 
 Thanks goes to these wonderful people ([emoji key][emojis]):
 
